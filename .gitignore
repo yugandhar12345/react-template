@@ -7,4 +7,5 @@ coverage/
 # Cruft
 .DS_Store
 npm-debug.log
+.history
 .idea
